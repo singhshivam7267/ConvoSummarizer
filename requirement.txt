@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+transformers
+torch
+jinja2
+faiss-cpu
+sentence-transformers
+transformers[sentencepiece]
+scikit-learn
