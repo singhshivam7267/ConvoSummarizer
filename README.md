@@ -4,10 +4,10 @@
 ## 🧠 RAG-Enhanced Text Summarization App
 
 This is a FastAPI-based application that summarizes input text using a fine-tuned Pegasus model. It supports both:
-
- <img width="1000" height="850" alt="image" src="https://github.com/user-attachments/assets/d06d58b5-624a-4f2f-9176-7c7b02f5469c" />
 - ✨ **Standard Summarization** (without context)
 - 🔍 **RAG (Retrieval-Augmented Generation)** — retrieves relevant knowledge from a context base (`context_chunks.txt`)
+
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d06d58b5-624a-4f2f-9176-7c7b02f5469c" />
   
 
 ---
